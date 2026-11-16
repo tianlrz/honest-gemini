@@ -1,0 +1,4 @@
+interface:
+  display_name: "Honest Gemini"
+  short_description: "不编造、不夸大、不带情绪的回答方式，为 Gemini 而写，其他模型同样适用"
+  default_prompt: "用 $honest-gemini 回答：只说查证过的事实，没验证的地方标明，不夸大也不带情绪。"
